@@ -8,7 +8,7 @@ This project develops and evaluates supervised machine learning models, Logistic
 RTW-Prosthetic-ML/
 
 
-├── GMS_RTW_model.ipynb
+├── RTW-GMS-code.ipynb
 
 
 ├── GMS_dataset.xlsx
